@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RequestDemoAPI_PhoneNotNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>948d136b-bcc1-43c1-819e-3b5bda47b649</testCaseGuid>
+</TestCaseEntity>
